@@ -1,6 +1,9 @@
 # Bangkit-Capstone-Project
 
-# My team
+# About
+Hi Tani is an end-to-end agriculture app to assist farmers in detecting leaf diseases of maize and rice plants
+
+# The team
 |               **Member**                | **Student ID** |      **Path**      |                              **Contacts**                               |
 | :----                                   |      :---:     |        :---:       |                                 :---:                                   |
 | Najibulloh Asror                        |   M7393G2953   | Machine Learning   | [Linkeid](https://www.linkedin.com/in/najibulloh-asror/) or [Github](https://github.com/algonommy)            |
