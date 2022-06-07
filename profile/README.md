@@ -13,4 +13,4 @@ Hi Tani is an end-to-end agriculture app to assist farmers in detecting leaf dis
 | Jonathan Leonardo Hasiholan Simanjuntak |   C2004F0328   | Cloud Computing    | [Linkedin](https://www.linkedin.com/in/jonathan-simanjuntak-2863a8212/) or [Github](https://github.com/ArchieOps)            |
 | David Dalil Tauhid Syabila              |   C2291F2463   | Cloud Computing    | [Linkedin](https://www.linkedin.com/in/david-dts/) or [Github](https://github.com/DavidDTS193040002)    |
 
-##### Copyright Hi Tani 2022
+##### Copyright: © Hi Tani 2022
